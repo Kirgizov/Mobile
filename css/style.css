@@ -90,7 +90,7 @@ body {
 }
 .main-header{
   background-image: url('../img/Photo.png');
- /* background-color: rgba(17, 17, 17, 0,7); */
+  background-color: rgba(17, 17, 17, 0,7);
   background-color: red;
   background-repeat:no-repeat;
   background-position: center;
